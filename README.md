@@ -1,6 +1,6 @@
-# Sports Video Analysis Pipeline
+# Football Video Analysis
 
-This project is a Python-based video processing pipeline designed to analyze sports videos, specifically focusing on tracking players and the ball, estimating camera movements, assigning team colors, and calculating player statistics such as speed and distance.
+This project is a Python-based video processing pipeline designed to analyze football videos, specifically focusing on tracking players and the ball, estimating camera movements, assigning team colors, and calculating player statistics such as speed and distance.
 
 ## Features
 
