@@ -40,14 +40,22 @@ The processed video with annotations will be saved to the specified output path.
 
 ## Modules Overview
 main.py: Orchestrates the entire video processing workflow.
+
 camera_movement_estimator.py: Estimates and adjusts for camera movement between frames.
+
 player_ball_assigner.py: Assigns ball possession to players based on proximity.
+
 speed_and_distance_estimator.py: Calculates and annotates speed and distance metrics for players.
+
 team_assigner.py: Assigns team colors using KMeans clustering.
+
 tracker.py: Handles object detection and tracking using YOLO models.
+
 view_transformer.py: Performs perspective transformation of player positions.
 Utilities
+
 video_utils.py: Contains functions to read and save video files.
+
 bbox_utils.py: Provides utility functions for bounding box calculations.
 
 
