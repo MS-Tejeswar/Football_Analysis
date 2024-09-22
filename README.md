@@ -65,3 +65,18 @@ Adjust parameters such as frame rate and window size in speed_and_distance_estim
 Acknowledgments
 This project utilizes various open-source libraries and models. Special thanks to Roboflow for providing annotated datasets used in training.
 text
+
+## Output
+![Screenshot (879)](https://github.com/user-attachments/assets/19560946-685f-4b88-b1d7-e3dff9856a14)
+
+The output contains:
+   1. ellipses around every player detected and referee
+   2. Markers over the ball and player in possession of the ball
+   3. Percentage of team possession
+   4. Coordinates of camera movement
+   5. Total distance each player has run
+   6. Current speed fo each detected player
+
+
+
+
