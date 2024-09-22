@@ -75,9 +75,9 @@ The output contains:
    3. Percentage of team possession
    4. Coordinates of camera movement
    5. Total distance each player has run
+   6. Current speed of each detected player
 
 # The final output video can be found here: https://drive.google.com/drive/folders/1DEfHJ3MK05sdTBfLubOocH555_uUY76H?usp=sharing (Output video 13 is the final intended output)
-   7. Current speed fo each detected player
 
 
 
